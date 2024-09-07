@@ -5,7 +5,6 @@ Welcome to my home town website where you'll find my favourite places to visit i
 * [General info](#general-info)
 * [Technologies](#technologies)
 
-
 ## General info
 This project is a simple website about my homwetown.
 	
