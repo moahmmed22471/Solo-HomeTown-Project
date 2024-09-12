@@ -12,7 +12,7 @@ img {
 }
 
 .hero, #a{
-  color: white;
+  color: #FFFFFF;
   height: 400px;
   background-image: url(london.jpeg);
   background-size: cover;
